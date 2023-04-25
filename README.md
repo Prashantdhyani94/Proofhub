@@ -1,2 +1,0 @@
-# Proofhub
-Frontend practical question
